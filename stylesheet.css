@@ -27,6 +27,9 @@ header {
   z-index: 10;
 }
 
+header h1 {
+  text-align: center;
+}
 .logo {
   width: 124px;
   float: left;
